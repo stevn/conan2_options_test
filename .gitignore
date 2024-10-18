@@ -1,0 +1,8 @@
+/.conan*/
+build*/
+CMakeUserPresets.json
+conanbuild*
+conanrun*
+deactivate_conanbuild*
+deactivate_conanrun*
+.DS_Store
